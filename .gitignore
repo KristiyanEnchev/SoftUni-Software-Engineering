@@ -71,3 +71,11 @@
 /Programming Basics/Exercises/02.Conditional Statements/07. Toy Shop/07. Toy Shop/bin
 /Programming Basics/Exercises/02.Conditional Statements/07. Toy Shop/07. Toy Shop/obj
 .vs
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# User-specific files (MonoDevelop/Xamarin Studio)
+*.userprefs
