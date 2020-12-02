@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Fishland", "06. Fishland\06. Fishland.csproj", "{236B59A5-D74C-4143-822B-A58952AB0FDA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{236B59A5-D74C-4143-822B-A58952AB0FDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{236B59A5-D74C-4143-822B-A58952AB0FDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{236B59A5-D74C-4143-822B-A58952AB0FDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{236B59A5-D74C-4143-822B-A58952AB0FDA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CCDB0E92-BF5C-4400-B42E-6CE0CA2FFAE0}
+	EndGlobalSection
+EndGlobal
