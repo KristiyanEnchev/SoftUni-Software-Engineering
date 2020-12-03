@@ -1,0 +1,14 @@
+# <p align="center"> Courses from the main program in SoftUni <p>
+
+<a href="https://softuni.bg/trainings/courses" rel="Courses">  ![SoftUni logo][logo] <a/>
+
+[logo]: https://softuni.bg/Files/Seminars/cats.jpg "Logo Title Text 2"
+
+<br/>
+<br/>
+<br/>
+
+|**Course**|**Link**| 
+|---|---|
+|<a href="https://softuni.bg/trainings/3038/programming-basics-with-c-sharp-july-2020" > Programming Basics </a>   | <a href="https://softuni.bg/certificates/details/88165/e6b3380f"> Link</a> |
+|<a href="https://softuni.bg/trainings/3135/csharp-fundamentals-september-2020"> Programming Fundamentals  </a>| <a href=""> Link</a> |
