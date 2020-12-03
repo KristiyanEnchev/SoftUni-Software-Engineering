@@ -1,2 +1,1 @@
-# SoftUni-Repository
-Exercises
+# Courses from the main program in SoftUni
