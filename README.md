@@ -2,7 +2,7 @@
 
 <a href="https://softuni.bg/trainings/courses" rel="Courses">  ![SoftUni logo][logo] <a/>
 
-[logo]: https://softuni.bg/Files/Seminars/cats.jpg "Logo Title Text 2"
+[logo]: https://nakov.com/wp-content/uploads/2012/03/Software-University-logo-horizontal.png "Logo Title Text 2"
 
 <br/>
 <br/>
