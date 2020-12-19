@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>_04._Renovation</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="C:\Users\kiko\Desktop\SoftUni - Project\SoftUni-Software-Engineering\Programming Basics\Exams\Programming Basics Online Exam - 6 and 7 July 2019\Program.cs" Link="Program.cs" />
+  </ItemGroup>
+
+</Project>
