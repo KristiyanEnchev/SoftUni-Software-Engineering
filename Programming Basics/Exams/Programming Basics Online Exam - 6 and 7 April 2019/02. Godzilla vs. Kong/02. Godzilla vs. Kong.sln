@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Godzilla vs. Kong", "02. Godzilla vs. Kong\02. Godzilla vs. Kong.csproj", "{2A42346E-2F81-43A3-93FE-FEB832584461}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A42346E-2F81-43A3-93FE-FEB832584461}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A42346E-2F81-43A3-93FE-FEB832584461}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A42346E-2F81-43A3-93FE-FEB832584461}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A42346E-2F81-43A3-93FE-FEB832584461}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2F8C777A-B044-4D28-8A2F-EE1001AFCF3A}
+	EndGlobalSection
+EndGlobal
