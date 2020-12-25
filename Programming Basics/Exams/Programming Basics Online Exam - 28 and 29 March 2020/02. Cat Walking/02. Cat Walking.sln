@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Cat Walking", "02. Cat Walking\02. Cat Walking.csproj", "{D70D6347-EABD-4FE2-8B67-DB66D4170E72}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D70D6347-EABD-4FE2-8B67-DB66D4170E72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D70D6347-EABD-4FE2-8B67-DB66D4170E72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D70D6347-EABD-4FE2-8B67-DB66D4170E72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D70D6347-EABD-4FE2-8B67-DB66D4170E72}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {69510D72-0641-4AB2-8D49-52B131ED5235}
+	EndGlobalSection
+EndGlobal
