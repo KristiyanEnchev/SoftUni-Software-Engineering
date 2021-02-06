@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Destination Mapper", "02. Destination Mapper\02. Destination Mapper.csproj", "{3AC8882E-48AA-4CAA-9CCB-52B89035509B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3AC8882E-48AA-4CAA-9CCB-52B89035509B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AC8882E-48AA-4CAA-9CCB-52B89035509B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AC8882E-48AA-4CAA-9CCB-52B89035509B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AC8882E-48AA-4CAA-9CCB-52B89035509B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BA85DD43-20C8-41C7-BF6D-F5467F68C9E2}
+	EndGlobalSection
+EndGlobal
