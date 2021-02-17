@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Record Unique Names", "05. Record Unique Names\05. Record Unique Names.csproj", "{DCADBE6F-CADA-48D1-B4FB-EC24AAAEE5BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCADBE6F-CADA-48D1-B4FB-EC24AAAEE5BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCADBE6F-CADA-48D1-B4FB-EC24AAAEE5BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCADBE6F-CADA-48D1-B4FB-EC24AAAEE5BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCADBE6F-CADA-48D1-B4FB-EC24AAAEE5BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D9A9C24-9E7F-4BD9-B127-D48FFE8F0A11}
+	EndGlobalSection
+EndGlobal
