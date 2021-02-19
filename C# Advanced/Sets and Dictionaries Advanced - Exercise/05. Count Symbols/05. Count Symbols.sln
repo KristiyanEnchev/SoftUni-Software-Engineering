@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Count Symbols", "05. Count Symbols\05. Count Symbols.csproj", "{90559DD0-1A76-453E-9232-23F922A5B17A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90559DD0-1A76-453E-9232-23F922A5B17A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90559DD0-1A76-453E-9232-23F922A5B17A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90559DD0-1A76-453E-9232-23F922A5B17A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90559DD0-1A76-453E-9232-23F922A5B17A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {75855CB6-D0B8-4B42-ACBB-3CBFF2CA6BDE}
+	EndGlobalSection
+EndGlobal
