@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EqualityLogic", "EqualityLogic\EqualityLogic.csproj", "{52E69BA2-4F7A-49FD-B449-E4571E903640}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52E69BA2-4F7A-49FD-B449-E4571E903640}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52E69BA2-4F7A-49FD-B449-E4571E903640}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52E69BA2-4F7A-49FD-B449-E4571E903640}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52E69BA2-4F7A-49FD-B449-E4571E903640}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A8F9EEAC-8C99-46CE-BA2E-9B428295951D}
+	EndGlobalSection
+EndGlobal
