@@ -1,0 +1,40 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body section h1 {
+    text-align: center;
+}
+
+section article header p{
+font-family: italic ;
+}
+
+nav{
+    background-color:#234465 ;
+}
+nav ul{
+    text-align: center;
+    margin: 0;
+    padding: 10px;
+}
+
+nav ul li {
+   display: inline-block; 
+}
+
+nav ul li a {
+    display: block;
+    padding: 10px 20px;
+    text-decoration: none;
+    color: white;
+    border-radius:  5px;
+}
+
+footer{
+    background: #234465;
+    color: #fff;
+    text-align: center;
+    margin: 0;
+    padding: 10px;
+}
