@@ -1,0 +1,74 @@
+body {
+    font-family: Helvetica, sans-serif;
+    margin: 0;
+}
+
+body header h1{
+    text-align: center;
+}
+
+nav{
+    background-color:#234465 ;
+}
+nav ul{
+    text-align: center;
+    margin: 0;
+    padding: 10px;
+}
+
+nav ul li {
+   display: inline-block; 
+}
+
+nav ul li a {
+    display: block;
+    padding: 10px 20px;
+    text-decoration: none;
+    color: white;
+    border-radius:  5px;
+}
+
+section article header h1{
+display: block;
+padding: 10px 20px;
+color: #444;
+text-align: center;
+}
+
+section article header p{
+    text-align: center;
+
+}
+section article  p{
+    text-align: center;
+
+}
+
+body table{
+    border: 1px solid black;
+}
+
+table td, tr, th {
+    border: 1px solid black;
+}
+
+td{
+    padding-left:  5px;
+}
+
+.result {
+    width: 400px;
+    text-align: right;
+    padding-right: 5px;
+}
+
+details{
+    text-align-last: right;
+}
+
+footer{
+    background: #444;
+    color: #fff;
+    text-align: center;
+    padding:10px;
+}
