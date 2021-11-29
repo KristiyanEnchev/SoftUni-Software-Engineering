@@ -7,7 +7,9 @@
 <br/>
 <br/>
 <br/>
-
+  
+<div align='center'>
+  
 |**Course**|**Certificate**| 
 |---|---|
 |<a href="https://softuni.bg/trainings/3038/programming-basics-with-c-sharp-july-2020" > Programming Basics </a>   | <a href="https://softuni.bg/certificates/details/88165/e6b3380f"> Link</a> |
@@ -18,3 +20,5 @@
 |<a href="https://softuni.bg/trainings/3348/js-applications-june-2021"> JS Applications </a>| <a href="https://softuni.bg/certificates/details/110269/4c12e9c4"> Link</a> |
 |<a href="https://softuni.bg/trainings/3531/ms-sql-september-2021"> MS SQL </a>| <a href="https://softuni.bg/certificates/details/113957/dab4abfe"> Link</a> |
 |<a href="https://softuni.bg/trainings/3492/entity-framework-core-october-2021"> Entity Framework Core </a>| <a href=""> Link</a> |
+
+  </div>
