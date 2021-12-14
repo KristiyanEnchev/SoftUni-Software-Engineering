@@ -1,0 +1,112 @@
+[
+  {
+    "car": {
+      "Make": "Seat",
+      "Model": "Mii",
+      "TravelledDistance": 473519569
+    },
+    "customerName": "Ann Mcenaney",
+    "Discount": "30.00",
+    "price": "",
+    "priceWithDiscount": ""
+  },
+  {
+    "car": {
+      "Make": "Renault",
+      "Model": "Alaskan",
+      "TravelledDistance": 303853081
+    },
+    "customerName": "Taina Achenbach",
+    "Discount": "10.00",
+    "price": "",
+    "priceWithDiscount": ""
+  },
+  {
+    "car": {
+      "Make": "Toyota",
+      "Model": "Prius",
+      "TravelledDistance": 141313729
+    },
+    "customerName": "Francis Mckim",
+    "Discount": "30.00",
+    "price": "",
+    "priceWithDiscount": ""
+  },
+  {
+    "car": {
+      "Make": "Peugeot",
+      "Model": "405",
+      "TravelledDistance": 428581244
+    },
+    "customerName": "Donnetta Soliz",
+    "Discount": "15.00",
+    "price": "",
+    "priceWithDiscount": ""
+  },
+  {
+    "car": {
+      "Make": "Citroen",
+      "Model": "C3",
+      "TravelledDistance": 486926519
+    },
+    "customerName": "Hipolito Lamoreaux",
+    "Discount": "15.00",
+    "price": "",
+    "priceWithDiscount": ""
+  },
+  {
+    "car": {
+      "Make": "Alfa Romeo",
+      "Model": "Giulietta",
+      "TravelledDistance": 128074332
+    },
+    "customerName": "Johnette Derryberry",
+    "Discount": "0.00",
+    "price": "",
+    "priceWithDiscount": ""
+  },
+  {
+    "car": {
+      "Make": "Peugeot",
+      "Model": "407",
+      "TravelledDistance": 336906707
+    },
+    "customerName": "Brett Brickley",
+    "Discount": "30.00",
+    "price": "",
+    "priceWithDiscount": ""
+  },
+  {
+    "car": {
+      "Make": "Seat",
+      "Model": "Ibiza",
+      "TravelledDistance": 390958489
+    },
+    "customerName": "Nisha Markwell",
+    "Discount": "30.00",
+    "price": "",
+    "priceWithDiscount": ""
+  },
+  {
+    "car": {
+      "Make": "Citroen",
+      "Model": "C1",
+      "TravelledDistance": 339260713
+    },
+    "customerName": "Brett Brickley",
+    "Discount": "30.00",
+    "price": "",
+    "priceWithDiscount": ""
+  },
+  {
+    "car": {
+      "Make": "Nissan",
+      "Model": "Altima",
+      "TravelledDistance": 407562858
+    },
+    "customerName": "Emmitt Benally",
+    "Discount": "10.00",
+    "price": "",
+    "priceWithDiscount": ""
+  }
+]

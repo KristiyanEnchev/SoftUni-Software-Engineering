@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-16"?>
+<sales>
+  <sale>
+    <car make="Opel" model="Corsa" travelled-distance="347259126" />
+    <discount>15.00</discount>
+    <customer-name>Daniele Zarate</customer-name>
+    <price>0</price>
+    <price-with-discount>0</price-with-discount>
+  </sale>
+  <sale>
+    <car make="Opel" model="Astra" travelled-distance="349837452" />
+    <discount>20.00</discount>
+    <customer-name>Faustina Burgher</customer-name>
+    <price>0</price>
+    <price-with-discount>0</price-with-discount>
+  </sale>
+  <sale>
+    <car make="BMW" model="M Roadster E85" travelled-distance="475685374" />
+    <discount>15.00</discount>
+    <customer-name>Marcelle Griego</customer-name>
+    <price>0</price>
+    <price-with-discount>0</price-with-discount>
+  </sale>
+  <sale>
+    <car make="BMW" model="1M Coupe" travelled-distance="39826890" />
+    <discount>30.00</discount>
+    <customer-name>Audrea Cardinal</customer-name>
+    <price>0</price>
+    <price-with-discount>0</price-with-discount>
+  </sale>
+  <sale>
+    <car make="BMW" model="F04" travelled-distance="443756363" />
+    <discount>50.00</discount>
+    <customer-name>Donnetta Soliz</customer-name>
+    <price>0</price>
+    <price-with-discount>0</price-with-discount>
+  </sale>
+  <sale>
+    <car make="Opel" model="Insignia" travelled-distance="168539389" />
+    <discount>0.00</discount>
+    <customer-name>Lino Subia</customer-name>
+    <price>0</price>
+    <price-with-discount>0</price-with-discount>
+  </sale>
+  <sale>
+    <car make="Opel" model="Insignia" travelled-distance="339785118" />
+    <discount>10.00</discount>
+    <customer-name>Ann Mcenaney</customer-name>
+    <price>0</price>
+    <price-with-discount>0</price-with-discount>
+  </sale>
+  <sale>
+    <car make="BMW" model="E88" travelled-distance="27453411" />
+    <discount>0.00</discount>
+    <customer-name>Zada Attwood</customer-name>
+    <price>0</price>
+    <price-with-discount>0</price-with-discount>
+  </sale>
+  <sale>
+    <car make="BMW" model="M5 F10" travelled-distance="435603343" />
+    <discount>30.00</discount>
+    <customer-name>Hai Everton</customer-name>
+    <price>0</price>
+    <price-with-discount>0</price-with-discount>
+  </sale>
+</sales>

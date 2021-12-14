@@ -1,0 +1,144 @@
+[
+  {
+    "Id": 49,
+    "Genre": "Violent",
+    "Games": [
+      {
+        "Id": 50,
+        "Title": "Warframe",
+        "Developer": "Digital Extremes",
+        "Tags": "",
+        "Players": 6
+      }
+    ],
+    "TotalPlayers": 6
+  },
+  {
+    "Id": 8,
+    "Genre": "Violent",
+    "Games": [
+      {
+        "Id": 22,
+        "Title": "Soul at Stake",
+        "Developer": "Chongming Studio",
+        "Tags": "",
+        "Players": 2
+      }
+    ],
+    "TotalPlayers": 2
+  },
+  {
+    "Id": 38,
+    "Genre": "Nudity",
+    "Games": [
+      {
+        "Id": 40,
+        "Title": "Path of Exile",
+        "Developer": "Grinding Gear Games",
+        "Tags": "",
+        "Players": 2
+      }
+    ],
+    "TotalPlayers": 2
+  },
+  {
+    "Id": 18,
+    "Genre": "Nudity",
+    "Games": [
+      {
+        "Id": 29,
+        "Title": "Conan Exiles",
+        "Developer": "Funcom",
+        "Tags": "",
+        "Players": 1
+      }
+    ],
+    "TotalPlayers": 1
+  },
+  {
+    "Id": 41,
+    "Genre": "Nudity",
+    "Games": [
+      {
+        "Id": 15,
+        "Title": "Rust",
+        "Developer": "Facepunch Studios",
+        "Tags": "",
+        "Players": 1
+      }
+    ],
+    "TotalPlayers": 1
+  },
+  {
+    "Id": 43,
+    "Genre": "Violent",
+    "Games": [
+      {
+        "Id": 44,
+        "Title": "Black Desert Online",
+        "Developer": "Pearl Abyss",
+        "Tags": "",
+        "Players": 1
+      }
+    ],
+    "TotalPlayers": 1
+  },
+  {
+    "Id": 56,
+    "Genre": "Nudity",
+    "Games": [
+      {
+        "Id": 74,
+        "Title": "The Witcher 3: Wild Hunt",
+        "Developer": "CD PROJEKT RED",
+        "Tags": "",
+        "Players": 1
+      }
+    ],
+    "TotalPlayers": 1
+  },
+  {
+    "Id": 61,
+    "Genre": "Violent",
+    "Games": [
+      {
+        "Id": 57,
+        "Title": "Dead by Daylight",
+        "Developer": "Behaviour Digital Inc.",
+        "Tags": "",
+        "Players": 1
+      }
+    ],
+    "TotalPlayers": 1
+  },
+  {
+    "Id": 42,
+    "Genre": "Violent",
+    "Games": [],
+    "TotalPlayers": 0
+  },
+  {
+    "Id": 51,
+    "Genre": "Violent",
+    "Games": [],
+    "TotalPlayers": 0
+  },
+  {
+    "Id": 63,
+    "Genre": "Violent",
+    "Games": [],
+    "TotalPlayers": 0
+  },
+  {
+    "Id": 64,
+    "Genre": "Violent",
+    "Games": [],
+    "TotalPlayers": 0
+  },
+  {
+    "Id": 73,
+    "Genre": "Violent",
+    "Games": [],
+    "TotalPlayers": 0
+  }
+]
