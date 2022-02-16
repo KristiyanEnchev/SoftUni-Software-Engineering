@@ -1,0 +1,11 @@
+﻿<div class="container">
+    Your request is not valid. Errors:
+
+    <ul class="list-group">
+        @foreach (var error in Model)
+        {
+                <li class="list-group-item active"></li>
+                <li class="list-group-item active">@error</li>
+        }
+    </ul>
+</div>
