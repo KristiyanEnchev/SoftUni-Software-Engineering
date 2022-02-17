@@ -1,0 +1,28 @@
+﻿﻿<main class="mt-3">
+    <div class="products">
+        <div class="product-row d-flex justify-content-between mt-4">
+            <div class="product d-flex justify-content-between w-25">
+                @foreach (var product in Model)
+                {
+                    <div class="image-holder w-25">
+                        <img src="@product.Picture" alt="..." class="img-thumbnail">
+                    </div>
+                    <div class="data-holder w-75 px-3 mt-2">
+                        <div class="text-holder d-flex justify-content-between">
+                            <h6>Name:</h6>
+                            <h6>"@product.Name"</h6>
+                        </div>
+                        <div class="text-holder d-flex justify-content-between">
+                            <h6>Price:</h6>
+                            <h6>$@product.Price</h6>
+                        </div>
+                        <div class="text-holder d-flex justify-content-between">
+                            <h6>Barcode:</h6>
+                            <h6>@product.Barcode</h6>
+                        </div>
+                    </div>
+                }
+            </div>
+        </div>
+    </div>
+</main>
