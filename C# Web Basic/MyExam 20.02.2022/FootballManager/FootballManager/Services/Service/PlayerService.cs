@@ -38,14 +38,25 @@
         {
             ICollection<string> errorsModel = this.Validator.ValidateModel(model);
 
-            if (errorsModel.ToList().Count != 0)
-            {
-                return errorsModel.ToList();
-            }
-
             if (this.PlayerAlreadyExist(model.FullName))
             {
                 errorsModel.Add("Player with That Name Already Exists");
+            }
+
+            if (string.IsNullOrWhiteSpace(model.Endurance) ||
+                (int.Parse(model.Endurance) < 0 && int.Parse(model.Endurance) > 10))
+            {
+                errorsModel.Add("Endurance should be beatween 0 and 10");
+            }
+
+            if (string.IsNullOrWhiteSpace(model.Speed) ||
+                (int.Parse(model.Speed) < 0 && int.Parse(model.Speed) > 10))
+            {
+                errorsModel.Add("Speed should be beatween 0 and 10");
+            }
+
+            if (errorsModel.ToList().Count != 0)
+            {
                 return errorsModel.ToList();
             }
 
