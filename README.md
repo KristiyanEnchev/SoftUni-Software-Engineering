@@ -20,6 +20,9 @@
 |<a href="https://softuni.bg/trainings/3348/js-applications-june-2021"> JS Applications </a>| <a href="https://softuni.bg/certificates/details/110269/4c12e9c4"> Link</a> |
 |<a href="https://softuni.bg/trainings/3531/ms-sql-september-2021"> MS SQL </a>| <a href="https://softuni.bg/certificates/details/113957/dab4abfe"> Link</a> |
 |<a href="https://softuni.bg/trainings/3492/entity-framework-core-october-2021"> Entity Framework Core </a>| <a href="https://softuni.bg/certificates/details/119061/85e1d32b"> Link</a> |
-|<a href="https://softuni.bg/trainings/3637/algorithms-fundamentals-with-c-sharp-december-2021"> Algorithms Fundamentals </a>| <a href="https://softuni.bg/certificates/details/123100/1906bac1"> Link</a> |
+|<a href="https://softuni.bg/trainings/3637/algorithms-fundamentals-with-c-sharp-december-2021"> Algorithms </a>| <a href="https://softuni.bg/certificates/details/123100/1906bac1"> Link</a> |
+|<a href="https://softuni.bg/trainings/3672/data-structures-fundamentals-with-csharp-february-2022"> Data Structures </a>| <a href="https://softuni.bg/certificates/details/127946/b5606d27"> Link</a> |
+|<a href="https://softuni.bg/trainings/3593/csharp-web-basics-basics-january-2022"> C# Web Basic </a>| <a href="https://softuni.bg/certificates/details/126351/a9e75884"> Link</a> |
+|<a href="https://softuni.bg/trainings/3601/asp-dot-net-core-february-2022"> ASP .NET Core </a>| <a href="https://softuni.bg/certificates/details/132634/77a7b7f8"> Link</a> |
 
   </div>
