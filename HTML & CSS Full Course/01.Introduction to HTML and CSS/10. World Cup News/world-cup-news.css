@@ -1,0 +1,26 @@
+#wrapper {
+    background-color: #a6e1ec;
+    Width: 700px;
+    Height: 730px;
+    border: 1px solid #000000;
+    padding: 10px 20px;
+    justify-content: center;
+}
+
+img {
+    Width: 200px;
+    Margin-Right: 10px;
+    Vertical-Align: middle;
+}
+
+.text {
+    color: #3f51b5;
+}
+
+li {
+    Width: 595px;
+    Padding: 10px;
+    Margin-Bottom: 5px;
+    Font-Size: 14px;
+    Border: 1px solid #000000;
+}
