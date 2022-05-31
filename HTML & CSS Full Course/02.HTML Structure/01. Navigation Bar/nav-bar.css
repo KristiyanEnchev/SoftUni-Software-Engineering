@@ -1,0 +1,26 @@
+body {
+    Margin: 0px;
+    Padding: 0px;
+    background-position: #CCCCCC;
+}
+
+ul {
+    /* Background-Color: #444; */
+    background-color: rgb(68, 68, 68);
+    Padding: 0px;
+    Margin: 0px;
+    text-align: center;
+}
+
+li {
+    font-size: 24px;
+    Line-Height: 40px;
+    Height: 40px;
+    Padding: 20px;
+    display: inline-block;
+}
+
+a{
+    text-decoration: none;
+    color: #ffffff;
+}
