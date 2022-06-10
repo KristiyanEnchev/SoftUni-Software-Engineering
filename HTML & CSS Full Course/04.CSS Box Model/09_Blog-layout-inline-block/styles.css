@@ -1,0 +1,31 @@
+html {
+    font-family: Helvetica, sans-serif;
+
+}
+
+body {
+    background-color: rgb(238, 238, 238);
+    color: rgb(51, 51, 51);
+}
+
+article aside {
+    display: inline-block;
+    top: 10px;
+}
+
+article header {
+    width: 800px;
+    display: inline-block;
+}
+
+article section {
+    width: 800px;
+}
+
+section img {
+    width: 300px;
+}
+
+article footer {
+    width: 800px;
+}

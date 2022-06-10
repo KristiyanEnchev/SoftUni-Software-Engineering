@@ -1,0 +1,21 @@
+html {
+    font-family: Helvetica, sans-serif;
+}
+
+nav,
+h1,
+ul,
+li {
+    display: inline-block;
+}
+
+hr {
+    border: solid 1px;
+}
+
+nav ul li a {
+    color: cadetblue;
+    text-decoration-line: none;
+    padding: 8px;
+    margin: 16px;
+}
