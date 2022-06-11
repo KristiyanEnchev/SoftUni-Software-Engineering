@@ -1,0 +1,39 @@
+@import url('https://use.fontawesome.com/releases/v6.1.1/css/all.css');
+
+li {
+    background-color: lightgray;
+    margin-right: 15px;
+    border-radius: 50%;
+    display: inline-block;
+    cursor: pointer;
+}
+
+a {
+    color: black;
+    border-radius: 50%;
+}
+
+i {
+    padding: 15px;
+    font-size: 20px;
+}
+
+.fa-facebook-square:hover {
+    color: #3b5998;
+}
+
+.fa-google-plus-square:hover {
+    color: #db4437;
+}
+
+.fa-twitter:hover {
+    color: #1da1f2;
+}
+
+.fa-linkedin:hover {
+    color: #0a66c2;
+}
+
+.fa-instagram:hover {
+    color: #c32aa3;
+}

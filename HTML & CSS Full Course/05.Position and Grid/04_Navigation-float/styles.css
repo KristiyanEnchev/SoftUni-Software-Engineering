@@ -1,0 +1,78 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-size: 1em/1.2;
+    font-family: Georgia, serif;
+}
+
+blockquote {
+    font-family: Georgia, serif;
+}
+
+body {
+    font-family: Georgia, serif;
+    background: rgb(238, 238, 238);
+    font-size: 16px;
+    line-height: 1.5;
+    max-width: 1200px;
+    min-width: 800px;
+    margin: 30px auto;
+}
+
+.top-header {
+    border-bottom: 3px black solid;
+}
+
+.top-header h1 {
+    display: inline-block;
+}
+
+.top-header nav {
+    float: right;
+}
+
+.top-header nav ul li {
+    display: inline-block;
+    list-style-type: none;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 60px;
+}
+
+.top-header nav ul li a {
+    color: rgb(0, 102, 0);
+    text-decoration-line: none;
+}
+
+aside {
+    float: right;
+    max-width: 30%;
+    margin-right: 50px;
+}
+
+aside nav ul li a {
+    color: rgb(0, 102, 0);
+    text-decoration-line: none;
+    list-style-type: square;
+}
+
+main {
+    max-width: 70%;
+}
+
+.left {
+    float: left;
+    margin: 0px 15px 10px 0px;
+    border: 3px solid black;
+    padding: 5px;
+}
+
+.right {
+    float: right;
+    margin: 0px 0px 10px 20px;
+    border: 3px solid black;
+    padding: 5px;
+}
