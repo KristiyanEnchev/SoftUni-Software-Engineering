@@ -1,0 +1,41 @@
+body {
+    font-family: Helvetica, sans-serif;
+    flex-flow: row wrap;
+    display: flex;
+    height: 100vh;
+    margin: 0;
+    background: rgb(238, 238, 238);
+}
+
+header {
+    display: flex;
+    flex-basis: 100%;
+    padding: 5px;
+    border-bottom: 2px rgb(0, 0, 0) solid;
+    height: 100px;
+}
+
+h1, p{
+    margin: 1.5rem;
+}
+
+header h1 {
+    text-transform: uppercase;
+}
+
+main {
+    flex-wrap: nowrap;
+    min-height: 100%;
+    margin-bottom: 50px;
+}
+
+footer {
+    display: flex;
+    align-self: flex-end;
+    flex-basis: 100%;
+    height: 50px;
+    align-items: center;
+    padding: 1rem;
+    color: rgb(255, 255, 255);
+    background: rgb(102, 102, 102);
+}

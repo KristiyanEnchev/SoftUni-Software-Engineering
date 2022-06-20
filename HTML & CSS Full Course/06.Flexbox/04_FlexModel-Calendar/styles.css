@@ -1,0 +1,50 @@
+html {
+    box-sizing: border-box;
+}
+  
+*,
+*::after,
+*::before {
+    box-sizing: inherit;
+}
+
+body {
+    margin: 0;
+}
+
+div.container,
+div.container section {
+    display: flex;
+    text-align: center;
+    align-items: center;
+}
+
+div.container {
+    max-width: 65vw;
+    height: 89vh;
+    margin: 50px auto;
+}
+
+span{
+    border: 1px solid black;
+    flex-grow: 1;
+    height: 100px;
+    padding: 0.5rem;
+}
+
+div.container section.notes{
+    flex-direction: column;
+    height: 62%;
+}
+
+div.container section.notes span{
+    width:  100%;
+}
+
+.title{
+    flex-basis: 100%;
+}
+
+div.container section.week{
+    flex-flow: row wrap;
+}

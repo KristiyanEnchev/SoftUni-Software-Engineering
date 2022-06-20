@@ -1,0 +1,29 @@
+body {
+    font-family: Helvetica, sans-serif;
+    margin: 5rem;
+}
+
+header {
+    display: flex;
+    border-bottom: 2px solid rgb(0,0,0);
+    justify-content: space-between;
+}
+
+header ul {
+    display: flex;
+    list-style: none;
+    flex-flow: row wrap;
+}
+
+header nav {
+    align-self: center;
+}
+
+header ul li {
+    margin: 1rem;
+}
+
+header ul a {
+    text-decoration: none;
+    color: rgb(0, 153, 0);
+}
