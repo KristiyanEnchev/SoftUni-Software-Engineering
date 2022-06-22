@@ -1,0 +1,31 @@
+body {
+    margin: 0;
+    background: rgb(238, 238, 238);
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    height: 100vh;
+}
+
+section.container {
+    display: flex;
+    height: 50vh;
+    width: 50%;
+    margin: 0 auto;
+    align-items: center;
+    justify-content: center;
+}
+
+section.container img {
+    box-shadow: 0px 0px 45px 6px rgba(0, 0, 0, 0.43);
+    margin: 10px;
+    border-radius: 10px;
+    overflow: hidden;
+    height: 80%;
+    object-fit:cover;
+    object-position:50% 50%;
+}
+
+section.container img:nth-child(2) {
+    width: 250%;
+}
