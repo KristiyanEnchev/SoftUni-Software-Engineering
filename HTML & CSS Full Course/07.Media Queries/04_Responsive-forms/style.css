@@ -1,0 +1,73 @@
+@import url('https://use.fontawesome.com/releases/v6.1.1/css/all.css');
+body
+{
+    padding: 60px;
+}
+main,section{
+    background-color: #f8f8f8;
+    border: 1px solid black;
+    margin: auto;
+}
+
+main
+{
+    position: relative;
+    width: 300px;
+    padding: 30px;
+}
+
+section{
+    width: 150px;
+    text-align: left;
+    position: absolute;
+    top: -32px;
+    left: -1px;
+}
+
+section h3{
+    padding: 0px;
+    margin: 10px;
+}
+input{
+    margin-bottom: 10px;
+}
+button{
+    display: block;
+    margin: 0 auto;
+}
+label{
+    box-sizing: border-box;
+    display: inline-block;
+    text-align: center;
+    width: 70px;
+}
+p
+{
+    position: relative;
+}
+i{
+    position: absolute;
+    top: 3px;
+    left: 80px;
+}
+
+@media screen and (max-width: 500px) {
+    body{
+        padding-top: 30px;
+    }
+    label
+    {
+        display: none;
+    }
+    form{
+        width: unset;
+    }
+    main{
+        padding: unset;
+        width: 200px;
+    }
+    p{
+        display: inline-block;
+        text-align: center;
+    }
+}

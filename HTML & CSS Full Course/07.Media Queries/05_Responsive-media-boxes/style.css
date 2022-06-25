@@ -1,0 +1,49 @@
+html {
+    font-family: Helvetica, sans-serif;
+}
+
+body {
+    background-color: rgb(238, 238, 238);
+    font-family: Helvetica, sans-serif;
+    size: 1em;
+}
+
+.card {
+    background-color: rgb(255, 255, 255);
+    width: 498px;
+    margin: 15px;
+    box-shadow: 5px 5px 15px 5px rgba(0,0,0,0.5);
+}
+
+section div:first-child {
+    height: 328px;
+    background-color: red;
+    position:relative;
+}
+img {
+    position:absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+section div:nth-child(2) {
+    padding: 24px;
+}
+a {
+    background-color: rgb(0, 153, 0);
+    display: block;
+
+    width: 90px;
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    margin: 10px 5px;
+    position: relative;
+    left:325px;
+}
+
+h3 {
+    font-family: Georgia, serif;
+    size: 1.2em;
+}
