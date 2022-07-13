@@ -22,6 +22,7 @@
 |<a href="https://softuni.bg/trainings/3492/entity-framework-core-october-2021"> Entity Framework Core </a>| <a href="https://softuni.bg/certificates/details/119061/85e1d32b"> Link</a> |
 |<a href="https://softuni.bg/trainings/3637/algorithms-fundamentals-with-c-sharp-december-2021"> Algorithms </a>| <a href="https://softuni.bg/certificates/details/123100/1906bac1"> Link</a> |
 |<a href="https://softuni.bg/trainings/3672/data-structures-fundamentals-with-csharp-february-2022"> Data Structures </a>| <a href="https://softuni.bg/certificates/details/127946/b5606d27"> Link</a> |
+|<a href="https://softuni.bg/trainings/3726/html-and-css-may-2022"> HTML & CSS </a>| <a href="https://softuni.bg/certificates/details/137019/b811cc6a"> Link</a> |
 |<a href="https://softuni.bg/trainings/3593/csharp-web-basics-basics-january-2022"> C# Web Basic </a>| <a href="https://softuni.bg/certificates/details/126351/a9e75884"> Link</a> |
 |<a href="https://softuni.bg/trainings/3601/asp-dot-net-core-february-2022"> ASP .NET Core </a>| <a href="https://softuni.bg/certificates/details/132634/77a7b7f8"> Link</a> |
 
