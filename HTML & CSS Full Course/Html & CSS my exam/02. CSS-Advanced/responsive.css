@@ -1,0 +1,79 @@
+@media all and (max-width: 600px) {
+
+    body {
+        margin: 0 auto;
+    }
+
+    main {
+        width: 100%;
+    }
+
+    button {
+        display: none;
+    }
+
+    form {
+        width: 100%;
+    }
+
+    header h1 {
+        font-size: 2.2rem;
+        margin-top: 0;
+    }
+
+    main .left-to-right article {
+        border-radius: 4rem;
+        margin: 0 auto;
+        padding: 4rem 0;
+        width: 85%;
+        height: auto;
+    }
+
+    .left-to-right p {
+        margin: 1rem auto 0;
+        width: 85%;
+    }
+
+    .left-to-right:first-child {
+        padding: 4rem 0 10rem;
+        height: auto;
+    }
+    
+    main section:nth-child(2) header h1 {
+        font-size: 1.9rem;
+    }
+
+    main section:nth-child(2),
+    main section:nth-child(4) {
+        flex-direction: column;
+    }
+
+    main section:nth-child(2) article,
+    main section:nth-child(4) article {
+        margin: 1rem auto;
+        width: 80%;
+    }
+
+    main section:nth-child(2) article img,
+    main section:nth-child(4) article img {
+        width: 100%;
+    }
+
+    
+    main section:nth-child(3).left-to-right {
+        padding: 1rem 0;
+    }
+    
+    main section:nth-child(3) article {
+        width: 80%;
+    }
+
+    section form label input,
+    section form textarea {
+        width: 100%;
+    }
+
+    form label:nth-child(4) {
+        text-align: center;
+    }
+}

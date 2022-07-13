@@ -1,0 +1,247 @@
+@import url('https://use.fontawesome.com/releases/v5.0.9/css/all.css');
+
+html {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: PT Sans, sans-serif;
+}
+
+* {
+    box-sizing: inherit;
+}
+
+body {
+    width: 90%;
+    margin: 0 auto;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+}
+
+.hero-section {
+    background-image:
+        linear-gradient(rgba(0, 0, 0, .6),
+            rgba(0, 0, 0, .3)),
+        url(../Requirements-and-Resources/image/computer-main.jpg);
+    background-position: center;
+    background-size: cover;
+
+    width: 100%;
+    height: calc(80vh);
+}
+
+.container {
+    display: flex;
+    flex-flow: column wrap;
+    margin: 0 auto;
+    justify-content: center;
+    text-align: center;
+}
+
+header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 1rem;
+}
+
+.logo a {
+    text-decoration: none;
+    color: lightgray;
+    text-shadow: 1px 2px 1px #000000;
+}
+
+nav ul {
+    list-style: none;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: lightgray;
+}
+
+nav ul li i {
+    color: white;
+}
+
+.hero-title__section .hero-subtitle {
+    width: 38%;
+    margin: 0 auto;
+    margin-bottom: 5.5rem;
+}
+
+.hero-title__section .hero-title {
+    font-size: 40px;
+    color: white;
+    text-shadow: 1px 2px 1px #000000;
+    margin-bottom: 2.5rem;
+}
+
+.hero-title__section .hero-subtitle {
+    font-size: 18px;
+    color: white;
+    text-shadow: 1px 2px 1px #000000;
+}
+
+.buy-now-btn {
+    background: #00D58E;
+    border: 2px solid #00D58E;
+    color: white;
+    padding: .5rem 1rem;
+    border-radius: .25rem;
+    font-weight: bold;
+    margin-top: 1.3rem;
+    cursor: pointer;
+}
+
+.buy-now-btn:hover {
+    background: none;
+    border: 2px solid white;
+    color: white;
+    padding: .5rem 1rem;
+    border-radius: .25rem;
+    font-weight: bold;
+}
+
+.hero-scroll {
+    margin: 2rem;
+}
+
+.hero-scroll a {
+    text-decoration: none;
+    margin-top: 3rem;
+    font-size: 16px;
+    color: white;
+    text-shadow: 1px 2px 1px #000000;
+}
+
+.about {
+    padding: 1rem;
+    margin: 3rem auto;
+}
+
+.about p {
+    padding-left: 2.5rem;
+}
+
+.about-top {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+}
+
+.about-top img {
+    display: flex;
+    width: 100%;
+    height: 100%;
+}
+
+@media all and (max-width: 800px) {
+
+    .about-top {
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+
+    }
+}
+
+.about-top ul {
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+}
+
+.about-top ul li i {
+    color: #00D58E;
+    text-shadow: none;
+    margin-right: 1rem;
+}
+
+.about-top ul li {
+    margin-bottom: .5rem;
+}
+
+.about-top>section>p:nth-child(1) {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.abount-bottom {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    text-align: center;
+}
+
+.abount-bottom img {
+    display: flex;
+    width: 100%;
+    height: 100%;
+}
+
+@media all and (max-width: 800px) {
+    .abount-bottom {
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+    }
+}
+
+.cards-wrapper {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    margin-top: 2rem;
+}
+
+@media all and (max-width: 800px) {
+    .cards-wrapper {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        margin-top: 2rem;
+    }
+}
+
+.card {
+    padding: 2rem;
+    margin: 0 auto;
+}
+
+.card img {
+    height: 50px;
+    width: 70px;
+}
+
+.card span {
+    color: #00D58E;
+}
+
+footer {
+    background: #B2F1DE;
+    text-align: center;
+}
+
+footer ul {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    padding: 1rem;
+}
+
+footer ul li {
+    list-style: none;
+    margin: 0 2rem;
+}
+
+footer span {
+    font-weight: bold;
+}
+
+@media all and (max-width: 600px) {
+    footer ul {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media all and (max-width: 380px) {
+    footer ul {
+        grid-template-columns: repeat(1, 1fr);
+    }
+}
